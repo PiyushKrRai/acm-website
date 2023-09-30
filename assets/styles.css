@@ -274,6 +274,21 @@ body{
   background-color: #073042;
 
 }
+
+.accomp-bg2{
+  background-color: #ecfbf3;
+  padding-top: 4rem;
+}
+.accomp-bg4{
+  background-color: #ecfbf3;
+}
+.team-bg3{
+  background-color: #073042;
+  padding-top: 4rem;
+}
+
+
+
 #events{
   background-color: #ecfbf3;
   /*background-color: #073042;*/
@@ -447,6 +462,11 @@ body{
     min-height: 40rem;
     align-items: center;
   }
+  
+  .abt-card img{
+    width: 10rem;
+    margin: auto;
+  }
 
   /* ===== cards =====*/
 
@@ -607,7 +627,14 @@ body{
   color: #fff;
 }
 
-.team h2{
+.team-sub{
+  font-size: 2.5rem;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+.name{
   font-size: 1.5rem;
   text-align: center;
 }
@@ -848,7 +875,85 @@ body{
     color: #fff;
   }
  
+  /* ===== ACCOMPLISHMENT=====*/
+  .accomp{
+    padding: 5rem;
+  }
+  .accomp-card{
+    font-family: 'Product Sans';
+    background: var(--acm4);
+    color: var(--g-black);
+    padding: 1rem;
+    padding-bottom: 2rem;
+    margin: 2rem;
+    border-radius: 3rem;
+    transition: transform .2s; 
+    box-shadow: 0 10px 25px rgba(14, 36, 49, 0.352);
+    text-align: center;
+    align-items: center;
+    
+  }
+
+  .accomp-img{
+    width: 25%;
+    display: inline-block;
+    margin: 3rem auto;
+    vertical-align: middle;
+  }
+
+  .accomp-img img{
+    border-radius: 2.5rem;
+  }
   
+  .accomp-txt{
+    display: inline-block;
+    width: 70%;
+    text-align: left;
+    vertical-align: top;
+    padding: 2.5rem;
+  }
+
+  .accomp-txt h2{
+    text-align: left;
+  }
+
+  .team-page{
+    border-radius: 0px;
+  }
+  
+  .team-table{
+    background-color: #fff;
+    padding: 2.5rem;
+    margin: 2.5rem 10rem;
+    border-radius: 2.5rem;
+  }
+
+  #members{
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  #members td, #members th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  #members tr:nth-child(even){background-color: #f2f2f2;}
+  #customers tr:hover {background-color: #ddd;}
+
+  #members th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: var(--acm3);
+    color: white;
+  }
+
+
+
+
+
+
   /* ===== MEDIA QUERIES=====*/
   @media screen and (min-width: 768px){
     body{
