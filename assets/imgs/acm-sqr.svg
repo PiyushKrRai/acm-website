@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg182"
+   width="571.71698"
+   height="295.6933"
+   viewBox="0 0 571.71698 295.6933"
+   sodipodi:docname="acm_desktopcta.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs186" />
+  <sodipodi:namedview
+     id="namedview184"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.0168894"
+     inkscape:cx="1185.7368"
+     inkscape:cy="218.15772"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g188" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g188"
+     transform="translate(-892.13312,21.520674)">
+    <rect
+       style="fill:#015398;fill-opacity:1;stroke-width:5.63482;stroke-opacity:0.992157;paint-order:markers stroke fill"
+       id="rect2874"
+       width="571.71704"
+       height="295.6933"
+       x="892.13312"
+       y="-21.520674"
+       inkscape:export-filename="..\..\..\acm-sqr.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1368"
+       transform="translate(176.70693,-147.24894)"
+       inkscape:export-filename="..\..\..\acmlogo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g371">
+        <path
+           style="fill:#73ccf4;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+           d="m 932.8361,230.33943 -62.5808,-62.58081 -54.16658,54.16658 h 25.24268 l 29.27449,-29.27449 38.7405,38.7405 z"
+           id="path300" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+           d="m 806.27212,232.11733 -41.19464,41.19464 42.07113,42.07113 h 23.66501 l -41.63289,-41.63289 41.98348,-41.98348 z"
+           id="path302" />
+        <path
+           style="fill:#6ecaf0;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+           d="m 932.8361,316.8104 -62.5808,62.58081 -54.16658,-54.16658 h 25.24268 l 29.27449,29.27449 38.7405,-38.7405 z"
+           id="path358" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:100px;font-family:Impact;-inkscape-font-specification:Impact;fill:#ffffff;fill-opacity:1;stroke-width:5;stroke-opacity:0.992157;paint-order:markers stroke fill"
+         x="827.59973"
+         y="299.50266"
+         id="text5355"><tspan
+           sodipodi:role="line"
+           id="tspan5353"
+           x="827.59973"
+           y="299.50266"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">acm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:74.5808px;font-family:Impact;-inkscape-font-specification:Impact;fill:#73ccf4;fill-opacity:1;stroke-width:3.72904;stroke-opacity:0.992157;paint-order:markers stroke fill"
+         x="1036.3276"
+         y="299.81293"
+         id="text405"><tspan
+           sodipodi:role="line"
+           id="tspan403"
+           x="1036.3276"
+           y="299.81293"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#73ccf4;fill-opacity:1;stroke-width:3.72904">UEMJ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:38.7593px;font-family:Impact;-inkscape-font-specification:Impact;fill:#ffffff;fill-opacity:1;stroke-width:1.93797;stroke-opacity:0.992157;paint-order:markers stroke fill"
+         x="935.53601"
+         y="343.97647"
+         id="text1291"><tspan
+           sodipodi:role="line"
+           id="tspan1289"
+           x="935.53601"
+           y="343.97647"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:1.93797">Student Chapter</tspan></text>
+    </g>
+  </g>
+</svg>
