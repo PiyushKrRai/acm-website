@@ -229,7 +229,7 @@ body.dark-theme{
     height: 0.18rem;
     left: 0;
     top: 1.5rem;
-    background-color: var(--first-color);
+    background-color: var(--acm4);
 }
 .nav__logo{
     font-size: 1rem;
@@ -238,7 +238,8 @@ body.dark-theme{
 }
 
 .logo__img{
-    width: 30rem;
+    width: 10rem;
+    padding-top: 1.5rem;
 }
 
 /*===== ACTIVE MENU =====*/
@@ -872,7 +873,7 @@ body{
       margin-top: 0;  
       display: flex;
       padding: 0.75rem;
-      background-color: #FFFFFF;
+      background-color: #015398;
       border-radius: 5rem;
     }
     .nav__item{
@@ -884,7 +885,7 @@ body{
       display: none;
     }
     .nav__link{
-      color: var(--second-color);
+      color: #ffffff;
     }
   
     .home{
